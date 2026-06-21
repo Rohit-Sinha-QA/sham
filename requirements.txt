@@ -1,0 +1,3 @@
+numpy
+pytest
+selenium == 3.141.59
